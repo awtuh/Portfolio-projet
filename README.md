@@ -1,7 +1,7 @@
 # 📊 Projet 1 : Pricer d'Options (Black-Scholes)
 
 Bienvenue sur le premier projet de mon **Portfolio d'Ingénierie Financière**.
-Chaque semaine, je publie un nouveau module explorant un concept clé de la finance quantitative, codé en Python.
+Chaque semaine, je publie un nouveau module explorant un concept clé de la finance, codé en Python.
 
 ## 📝 À propos de ce projet
 
